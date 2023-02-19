@@ -1,0 +1,7 @@
+chart:
+  repo: https://charts.bitnami.com/bitnami
+  name: nginx
+  version: 13.2.7
+
+values:
+  replicaCount: 2
